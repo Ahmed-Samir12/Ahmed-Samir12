@@ -5,6 +5,10 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ahmed.samir.417329/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmed-samir-017112250/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmed.samir27901@gmail.com) 
+
+
 ---
 
 ### 🚀 About Me
@@ -18,7 +22,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,javascript,html,css,cpp,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,javascript,html,css,cpp,bootstrap,npm,pug,git,github,postman" />
 </p>
 
 ---
@@ -47,6 +51,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Samir12&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ahmed-Samir12&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🤝 Connect With Me
 <p align="center">
