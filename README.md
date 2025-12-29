@@ -41,6 +41,12 @@
 🔗 https://github.com/Ahmed-Samir12/Task-Management-API
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ahmed-Samir12&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ahmed-Samir12&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Samir12&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+---
 
 ### 🤝 Connect With Me
 <p align="center">
