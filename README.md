@@ -2,7 +2,7 @@
 <h3 align="center">Backend Software Engineer | Node.js & MongoDB | REST API</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" />
 </p>
 
 ## 🌐 Socials:
