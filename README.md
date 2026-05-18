@@ -29,15 +29,21 @@
 
 ### 📌 Featured Projects
 
+#### Physio-Egypt (Clinic System)
+-A Node.js + Express + MongoDB clinic management system for handling:
+-Employees/administrators
+-Patients
+-Bookings (appointments)
+-Auth with JWT refresh tokens
+-Profile settings (including avatar upload)
+-Printable patient cards (HTML and optional PDF)
+-This project uses Pug for server-rendered pages and esbuild to bundle frontend JavaScript/CSS.
+🔗 https://github.com/Ahmed-Samir12/Physio-Egypt
+
 #### 📊 Expense Tracker API
 - Advanced expense tracking backend with analytics
 - Pagination, filtering, authentication, optimized queries  
 🔗 https://github.com/Ahmed-Samir12/EXPENSE-TRACKER-API
-
-#### 📚 Personal Library Manager API
-- RESTful API for managing personal book collections
-- Search, filtering, and read/unread status  
-🔗 https://github.com/Ahmed-Samir12/Personal-Library-Manager
 
 #### ✅ Task Management API
 - Modular task management backend system
